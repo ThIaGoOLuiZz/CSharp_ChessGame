@@ -1,4 +1,6 @@
 ﻿
+using System.Numerics;
+
 namespace TabuleiroGame
 {
     internal abstract class Peca
@@ -17,6 +19,28 @@ namespace TabuleiroGame
         public void IncrementarQtdMovimentos()
         {
             QtdMovimentos++;
+        }
+
+        public bool ExisteMovimentsosPossiveis()
+        {
+            bool[,] mat = MovimentosPossiveis();
+            for (int i = 0; i < Tabuleiro.Linhas; i++)
+            {
+                for (int j = 0; j < Tabuleiro.Linhas; j++)
+                {
+                    if (mat[i, j])
+                    {
+                        return true;
+                    }
+                }
+            }
+
+            return false;
+        }
+
+        public bool PodeMoverPara(Posicao pos)
+        {
+            return MovimentosPossiveis()[pos.Linha, pos.Coluna];
         }
 
         public abstract bool[,] MovimentosPossiveis();

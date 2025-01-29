@@ -1,7 +1,7 @@
 ﻿
 namespace TabuleiroGame
 {
-    internal class Peca
+    internal abstract class Peca
     {
         public Posicao Posicao { get; set; }
         public Cor Cor { get; protected set; }
@@ -14,10 +14,12 @@ namespace TabuleiroGame
             Tabuleiro = tabuleiro;
             QtdMovimentos = 0;
         }
-
         public void IncrementarQtdMovimentos()
         {
             QtdMovimentos++;
         }
+
+        public abstract bool[,] MovimentosPossiveis();
+
     }
 }

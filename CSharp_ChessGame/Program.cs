@@ -1,4 +1,4 @@
-﻿using Tabuleiro;
+﻿using TabuleiroGame;
 
 namespace CSharp_ChessGame
 {
@@ -6,9 +6,7 @@ namespace CSharp_ChessGame
     {
         static void Main(string[] args)
         {
-            Posicao P;
-
-            P = new Posicao(3, 4);
+            Tabuleiro tab = new Tabuleiro(8,8);
         }
     }
 }

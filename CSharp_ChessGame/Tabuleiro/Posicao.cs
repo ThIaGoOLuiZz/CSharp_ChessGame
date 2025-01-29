@@ -1,4 +1,4 @@
-﻿namespace Tabuleiro
+﻿namespace TabuleiroGame
 {
     internal class Posicao
     {

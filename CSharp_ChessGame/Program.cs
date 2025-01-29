@@ -1,10 +1,14 @@
-﻿namespace CSharp_ChessGame
+﻿using Tabuleiro;
+
+namespace CSharp_ChessGame
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Posicao P;
+
+            P = new Posicao(3, 4);
         }
     }
 }

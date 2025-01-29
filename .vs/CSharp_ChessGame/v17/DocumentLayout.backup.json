@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_chessgame\\csharp_chessgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|solutionrelative:csharp_chessgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_chessgame\\csharp_chessgame\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|solutionrelative:csharp_chessgame\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_chessgame\\csharp_chessgame\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|solutionrelative:csharp_chessgame\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,37 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Program.cs",
               "RelativeDocumentMoniker": "CSharp_ChessGame\\Program.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Program.cs",
-              "RelativeToolTip": "CSharp_ChessGame\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Program.cs*",
+              "RelativeToolTip": "CSharp_ChessGame\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T17:56:41.972Z",
+              "WhenOpened": "2025-01-29T18:38:30.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tabuleiro.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Tabuleiro\\Tabuleiro.cs",
+              "RelativeDocumentMoniker": "CSharp_ChessGame\\Tabuleiro\\Tabuleiro.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Tabuleiro\\Tabuleiro.cs",
+              "RelativeToolTip": "CSharp_ChessGame\\Tabuleiro\\Tabuleiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:35:57.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tela.cs",
+              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Tela.cs",
+              "RelativeDocumentMoniker": "CSharp_ChessGame\\Tela.cs",
+              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Tela.cs",
+              "RelativeToolTip": "CSharp_ChessGame\\Tela.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:32:29.555Z",
               "EditorCaption": ""
             }
           ]

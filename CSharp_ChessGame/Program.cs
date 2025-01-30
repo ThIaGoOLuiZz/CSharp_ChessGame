@@ -33,7 +33,6 @@ namespace CSharp_ChessGame
                         Posicao destino = Tela.LerPosicaoXadrez().ToPosicao();
                         partida.ValidarPosicaoDestino(origem, destino);
 
-
                         partida.RealizaJogada(origem, destino);
                     }
                     catch (TabuleiroException ex)

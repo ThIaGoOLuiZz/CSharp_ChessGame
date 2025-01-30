@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_chessgame\\csharp_chessgame\\xadrez\\peao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|solutionrelative:csharp_chessgame\\xadrez\\peao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_chessgame\\csharp_chessgame\\xadrez\\partidaxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|solutionrelative:csharp_chessgame\\xadrez\\partidaxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Peao.cs",
-              "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Xadrez\\Peao.cs",
-              "RelativeDocumentMoniker": "CSharp_ChessGame\\Xadrez\\Peao.cs",
-              "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Xadrez\\Peao.cs",
-              "RelativeToolTip": "CSharp_ChessGame\\Xadrez\\Peao.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAcwHEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T03:28:02.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "PartidaXadrez.cs",
               "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Xadrez\\PartidaXadrez.cs",
               "RelativeDocumentMoniker": "CSharp_ChessGame\\Xadrez\\PartidaXadrez.cs",
               "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Xadrez\\PartidaXadrez.cs",
               "RelativeToolTip": "CSharp_ChessGame\\Xadrez\\PartidaXadrez.cs",
-              "ViewState": "AgIAAFEBAAAAAAAAAAD4v2MBAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAYwKIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T02:49:06.826Z",
+              "WhenOpened": "2025-01-30T03:32:00.456Z",
               "EditorCaption": ""
             }
           ]

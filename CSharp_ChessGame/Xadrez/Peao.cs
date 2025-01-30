@@ -1,16 +1,16 @@
 ﻿using TabuleiroGame;
 using Xadrez;
 
-namespace xadrez
+namespace Xadrez
 {
 
     class Peao : Peca
     {
         private PartidaXadrez partida;
 
-        public Peao(Tabuleiro tabuleiro, Cor Cor, PartidaXadrez partida) : base(tabuleiro, Cor)
+        public Peao(Tabuleiro tabuleiro, Cor Cor) : base(tabuleiro, Cor)
         {
-            this.partida = partida;
+
         }
 
         public override string ToString()

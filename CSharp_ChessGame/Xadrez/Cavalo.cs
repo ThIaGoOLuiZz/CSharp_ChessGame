@@ -1,6 +1,6 @@
 ﻿using TabuleiroGame;
 
-namespace xadrez
+namespace Xadrez
 {
 
     class Cavalo : Peca

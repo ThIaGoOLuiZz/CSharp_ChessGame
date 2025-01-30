@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|solutionrelative:csharp_chessgame\\xadrez\\partidaxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_chessgame\\csharp_chessgame\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|solutionrelative:csharp_chessgame\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_chessgame\\csharp_chessgame\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|solutionrelative:csharp_chessgame\\tabuleiro\\peca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_chessgame\\csharp_chessgame\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|solutionrelative:csharp_chessgame\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5623FC4E-9997-4970-9F7C-ECCAAB3CC29D}|CSharp_ChessGame\\CSharp_ChessGame.csproj|c:\\users\\thiag\\onedrive\\\u00E1rea de trabalho\\csharp_chessgame\\csharp_chessgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,20 +40,20 @@
               "RelativeDocumentMoniker": "CSharp_ChessGame\\Xadrez\\PartidaXadrez.cs",
               "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Xadrez\\PartidaXadrez.cs",
               "RelativeToolTip": "CSharp_ChessGame\\Xadrez\\PartidaXadrez.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAADwv9QAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAtwGgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T01:50:25.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Peca.cs",
               "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Tabuleiro\\Peca.cs",
               "RelativeDocumentMoniker": "CSharp_ChessGame\\Tabuleiro\\Peca.cs",
               "ToolTip": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Tabuleiro\\Peca.cs",
               "RelativeToolTip": "CSharp_ChessGame\\Tabuleiro\\Peca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwC0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T01:47:34.16Z",
               "EditorCaption": ""
@@ -73,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Tela.cs",
               "DocumentMoniker": "C:\\Users\\thiag\\OneDrive\\\u00C1rea de Trabalho\\CSharp_ChessGame\\CSharp_ChessGame\\Tela.cs",
               "RelativeDocumentMoniker": "CSharp_ChessGame\\Tela.cs",

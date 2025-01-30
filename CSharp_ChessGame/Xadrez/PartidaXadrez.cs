@@ -151,6 +151,7 @@ namespace Xadrez
 
             Peca p = Tab.Peca(destino);
 
+
             // PROMOÇÃO DO PEAO
             if (p is Peao)
             {

@@ -41,6 +41,9 @@ namespace CSharp_ChessGame
                         Console.ReadLine();
                     }
                 }
+
+                Console.Clear();
+                Tela.ImprimirPartida(partida);
                 
             }
             catch (Exception ex)
